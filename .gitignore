@@ -1,9 +1,6 @@
 # Visual studio
 /.vs
 
-# C#
-/Debug
-
 # Prerequisites
 *.d
 
